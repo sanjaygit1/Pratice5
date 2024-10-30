@@ -5,6 +5,7 @@ public class SimpleTest {
 	public static void main(String[] args) {
 		
 		System.out.println("Push1");
+		System.out.println("Pull1");
 	}
 
 }
